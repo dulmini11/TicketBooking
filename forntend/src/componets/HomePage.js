@@ -35,7 +35,6 @@ function HomePage() {
         </h1>
         <div className="submit1">Add Your Bus to this server</div>
         <button onClick={handleLogin}>Login</button>;
-        {/* <Link to="/Login">Login</Link> */}
       </div>
 
       <div className="content-row">
