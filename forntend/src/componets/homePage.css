@@ -20,7 +20,6 @@
   position: relative;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #d4d9bd;
-  margin-bottom: 40px;
 }
 
 .bus {
@@ -92,7 +91,7 @@ align-items: center; /* Vertically centers the text */
 
 .intro {
   font-size: 1rem;
-  line-height: 1.5;
+  line-height: 1;
   color: #d1c0c0;
   font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
 }
